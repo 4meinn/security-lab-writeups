@@ -9,6 +9,7 @@ Documented hands-on web security labs. For each finding I record my notes, the e
 | # | Vulnerability | Platform | Difficulty |
 |---|---------------|----------|------------|
 | 1 | [SQL Injection: WHERE clause, hidden data](portswigger/sql-injection/01-where-clause-retrieve-hidden-data.md) | PortSwigger Web Security Academy | Apprentice |
+| 2 | [SQL Injection: login bypass](portswigger/sql-injection/02-login-bypass.md) | PortSwigger Web Security Academy | Apprentice |
 
 ## Structure
 
