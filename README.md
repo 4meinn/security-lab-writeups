@@ -12,6 +12,7 @@ Documented hands-on web security labs. For each finding I record my notes, the e
 | 2 | [SQL Injection: login bypass](portswigger/sql-injection/02-login-bypass.md) | PortSwigger Web Security Academy | Apprentice |
 | 3 | [SQL Injection: UNION attack, column count](portswigger/sql-injection/03-union-determine-columns.md) | PortSwigger Web Security Academy | Practitioner |
 | 4 | [SQL Injection: UNION attack, text column](portswigger/sql-injection/04-union-find-text-column.md) | PortSwigger Web Security Academy | Practitioner |
+| 5 | [SQL Injection: UNION attack, read another table](portswigger/sql-injection/05-union-retrieve-data.md) | PortSwigger Web Security Academy | Practitioner |
 
 ## Structure
 
