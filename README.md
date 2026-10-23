@@ -15,6 +15,7 @@ Documented hands-on web security labs. For each finding I record my notes, the e
 | 5 | [SQL Injection: UNION attack, read another table](portswigger/sql-injection/05-union-retrieve-data.md) | PortSwigger Web Security Academy | Practitioner |
 | 6 | [SQL Injection: examining the database, listing contents](portswigger/sql-injection/06-examining-db-listing-contents.md) | PortSwigger Web Security Academy | Practitioner |
 | 7 | [SQL Injection: blind, time delays](portswigger/sql-injection/07-blind-time-delays.md) | PortSwigger Web Security Academy | Practitioner |
+| 8 | [SQL Injection: blind, conditional responses](portswigger/sql-injection/08-blind-conditional-responses.md) | PortSwigger Web Security Academy | Practitioner |
 
 ## Structure
 
