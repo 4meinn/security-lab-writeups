@@ -17,6 +17,7 @@ Documented hands-on web security labs. For each finding I record my notes, the e
 | 7 | [SQL Injection: blind, time delays](portswigger/sql-injection/07-blind-time-delays.md) | PortSwigger Web Security Academy | Practitioner |
 | 8 | [SQL Injection: blind, conditional responses](portswigger/sql-injection/08-blind-conditional-responses.md) | PortSwigger Web Security Academy | Practitioner |
 | 9 | [SQL Injection: filter bypass via XML encoding](portswigger/sql-injection/09-filter-bypass-xml-encoding.md) | PortSwigger Web Security Academy | Practitioner |
+| 10 | [Access Control: unprotected admin functionality](portswigger/access-control/10-unprotected-admin-functionality.md) | PortSwigger Web Security Academy | Apprentice |
 
 ## Structure
 
