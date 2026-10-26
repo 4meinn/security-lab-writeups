@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="20" role="img" aria-label="Expert">
+  <title>Expert</title>
+  <rect width="65" height="20" rx="4" fill="#d112fe"/>
+  <text x="32.5" y="14" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#0b0e14">Expert</text>
+</svg>
