@@ -20,6 +20,7 @@ Documented hands-on web security labs. For each finding I record my notes, the e
 | 10 | [Access Control: unprotected admin functionality](portswigger/access-control/10-unprotected-admin-functionality.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 | 11 | [Access Control: unprotected admin functionality with unpredictable URL](portswigger/access-control/11-unprotected-admin-functionality-unpredictable-url.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 | 12 | [Access Control: user role controlled by request parameter](portswigger/access-control/12-user-role-controlled-by-request-parameter.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
+| 13 | [Access Control: user ID controlled by request parameter (IDOR)](portswigger/access-control/13-user-id-controlled-by-request-parameter.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 
 ## Structure
 
