@@ -23,6 +23,7 @@ Documented hands-on web security labs. For each finding I record my notes, the e
 | 13 | [Access Control: user ID controlled by request parameter (IDOR)](portswigger/access-control/13-user-id-controlled-by-request-parameter.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 | 14 | [Access Control: user ID controlled by request parameter, with unpredictable user IDs](portswigger/access-control/14-user-id-controlled-by-request-parameter-with-unpredictable-user-ids.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 | 15 | [Access Control: user ID controlled by request parameter with data leakage in redirect](portswigger/access-control/15-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
+| 16 | [Access Control: user ID controlled by request parameter with password disclosure](portswigger/access-control/16-user-id-controlled-by-request-parameter-with-password-disclosure.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 
 ## Structure
 
