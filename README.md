@@ -24,6 +24,7 @@ Documented hands-on web security labs. For each finding I record my notes, the e
 | 14 | [Access Control: user ID controlled by request parameter, with unpredictable user IDs](portswigger/access-control/14-user-id-controlled-by-request-parameter-with-unpredictable-user-ids.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 | 15 | [Access Control: user ID controlled by request parameter with data leakage in redirect](portswigger/access-control/15-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 | 16 | [Access Control: user ID controlled by request parameter with password disclosure](portswigger/access-control/16-user-id-controlled-by-request-parameter-with-password-disclosure.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
+| 17 | [Access Control: URL-based access control can be circumvented](portswigger/access-control/17-url-based-access-control-can-be-circumvented.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 
 ## Structure
 
