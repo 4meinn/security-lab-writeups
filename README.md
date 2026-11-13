@@ -27,6 +27,7 @@ Documented hands-on web security labs. For each finding I record my notes, the e
 | 17 | [Access Control: URL-based access control can be circumvented](portswigger/access-control/17-url-based-access-control-can-be-circumvented.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 | 18 | [Access Control: method-based access control can be circumvented](portswigger/access-control/18-method-based-access-control-can-be-circumvented.md) | PortSwigger Web Security Academy | ![Practitioner](assets/badges/practitioner.svg) |
 | 19 | [Access Control: multi-step process with no access control on one step](portswigger/access-control/19-multi-step-process-with-no-access-control-on-one-step.md) | PortSwigger Web Security Academy | ![Practitioner](assets/badges/practitioner.svg) |
+| 20 | [Access Control: user role can be modified in user profile](portswigger/access-control/20-user-role-can-be-modified-in-user-profile.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 
 ## Structure
 
