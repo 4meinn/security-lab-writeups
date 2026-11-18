@@ -29,6 +29,7 @@ Documented hands-on web security labs. For each finding I record my notes, the e
 | 19 | [Access Control: multi-step process with no access control on one step](portswigger/access-control/19-multi-step-process-with-no-access-control-on-one-step.md) | PortSwigger Web Security Academy | ![Practitioner](assets/badges/practitioner.svg) |
 | 20 | [Access Control: user role can be modified in user profile](portswigger/access-control/20-user-role-can-be-modified-in-user-profile.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 | 21 | [Access Control: insecure direct object references (IDOR)](portswigger/access-control/21-insecure-direct-object-references.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
+| 22 | [Access Control: Referer-based access control](portswigger/access-control/22-referer-based-access-control.md) | PortSwigger Web Security Academy | ![Practitioner](assets/badges/practitioner.svg) |
 
 ## Structure
 
