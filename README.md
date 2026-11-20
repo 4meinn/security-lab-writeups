@@ -30,6 +30,7 @@ Documented hands-on web security labs. For each finding I record my notes, the e
 | 20 | [Access Control: user role can be modified in user profile](portswigger/access-control/20-user-role-can-be-modified-in-user-profile.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 | 21 | [Access Control: insecure direct object references (IDOR)](portswigger/access-control/21-insecure-direct-object-references.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 | 22 | [Access Control: Referer-based access control](portswigger/access-control/22-referer-based-access-control.md) | PortSwigger Web Security Academy | ![Practitioner](assets/badges/practitioner.svg) |
+| 23 | [Cross-Site Scripting: reflected XSS into HTML context with nothing encoded](portswigger/cross-site-scripting/23-reflected-xss-html-context-nothing-encoded.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 
 ## Structure
 
