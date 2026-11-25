@@ -35,6 +35,7 @@ Documented hands-on web security labs. For each finding I record my notes, the e
 | 25 | [Cross-Site Scripting: DOM XSS in document.write sink using source location.search](portswigger/cross-site-scripting/25-dom-xss-document-write-sink-location-search.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 | 26 | [Cross-Site Scripting: DOM XSS in innerHTML sink using source location.search](portswigger/cross-site-scripting/26-dom-xss-innerhtml-sink-location-search.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
 | 27 | [Cross-Site Scripting: DOM XSS in jQuery anchor href attribute sink using location.search source](portswigger/cross-site-scripting/27-dom-xss-jquery-href-attribute-sink-location-search.md) | PortSwigger Web Security Academy | ![Apprentice](assets/badges/apprentice.svg) |
+| 28 | [Cross-Site Scripting: reflected XSS into attribute with angle brackets HTML-encoded](portswigger/cross-site-scripting/28-reflected-xss-attribute-angle-brackets-html-encoded.md) | PortSwigger Web Security Academy | ![Practitioner](assets/badges/practitioner.svg) |
 
 ## Structure
 
