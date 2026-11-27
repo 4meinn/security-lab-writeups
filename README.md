@@ -38,6 +38,7 @@ Documented hands-on web security labs. For each finding I record my notes, the e
 | 28 | [Cross-Site Scripting: reflected XSS into attribute with angle brackets HTML-encoded](portswigger/cross-site-scripting/28-reflected-xss-attribute-angle-brackets-html-encoded.md) | PortSwigger Web Security Academy | ![Practitioner](assets/badges/practitioner.svg) |
 | 29 | [Cross-Site Scripting: reflected XSS into a JavaScript string with angle brackets HTML encoded](portswigger/cross-site-scripting/29-reflected-xss-javascript-string-angle-brackets-html-encoded.md) | PortSwigger Web Security Academy | ![Practitioner](assets/badges/practitioner.svg) |
 | 30 | [Cross-Site Scripting: reflected XSS into a JavaScript string with single quote and backslash escaped](portswigger/cross-site-scripting/30-reflected-xss-javascript-string-single-quote-backslash-escaped.md) | PortSwigger Web Security Academy | ![Practitioner](assets/badges/practitioner.svg) |
+| 31 | [Cross-Site Scripting: reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped](portswigger/cross-site-scripting/31-reflected-xss-template-literal.md) | PortSwigger Web Security Academy | ![Practitioner](assets/badges/practitioner.svg) |
 
 ## Structure
 
